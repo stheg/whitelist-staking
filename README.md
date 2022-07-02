@@ -1,16 +1,6 @@
-# ACDM Market + DAO + Staking
+# Staking with whitelist for ACDM Market + DAO
 
-You can find deployed ACDM Platform here:
-https://rinkeby.etherscan.io/address/0x5e751d91933d0a45b33563657e56d4846c877051#code
-
-ACDM Token is here:
-https://rinkeby.etherscan.io/token/0x0028f68a09B54743232eEE1595DDF2AB00dE3A68
-
-Reward Token is your reward for staking and can be found here:
-https://rinkeby.etherscan.io/address/0xEe8B3CdCECF1ED80cE437e26211778d44201B994
-
-Vote Token is LP token from pair (WETH, Reward Token) and it is used in DAO:
-https://rinkeby.etherscan.io/address/0x4EA5672f9B5412ED63C8c6d6195DF3Faaa2CBBE5
+Here is a deep copy of another repo, but with implementation of whitelist for staking platform (stake function), which is based on MerkleTree.
 
 # ACDM Platform Description
 
